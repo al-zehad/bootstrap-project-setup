@@ -3,6 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
 }
 h1, h2, h3, h4, h5, h6, p {
   margin: 0;
@@ -11,6 +12,13 @@ h1, h2, h3, h4, h5, h6, p {
 }
 ul, ol {
   list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+button {
+  border: none;
+  cursor: pointer;
 }
 /* All common css ends */
 
@@ -37,3 +45,30 @@ ul, ol {
 
 /* Header Section Starts */
 /* Header Section Ends */
+
+/* Header Section Starts */
+/* Header Section Ends */
+
+/* Header Section Starts */
+/* Header Section Ends */
+
+/* Header Section Starts */
+/* Header Section Ends */
+
+/* Header Section Starts */
+/* Header Section Ends */
+
+/* Header Section Starts */
+/* Header Section Ends */
+
+/* Header Section Starts */
+/* Header Section Ends */
+
+/* Header Section Starts */
+/* Header Section Ends */
+
+/* Header Section Starts */
+/* Header Section Ends */
+
+/* Footer Section Starts */
+/* Footer Section Ends */
